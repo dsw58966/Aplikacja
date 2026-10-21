@@ -17,14 +17,14 @@ JavaScript, React, Node.js + Express, MongoDB Atlas, AWS S3, JWT, Git + GitHub.
 
 
 Funkcjonalności: 
--  Konto użytkownika — rejestracja i logowanie (JWT).
--  Adresy — użytkownik może mieć dowolną liczbę adresów i wybrać adres domyślny.
--  Zakupy (CRUD) — dodawanie, edycja, usuwanie i przeglądanie zakupów; filtrowanie po adresie, okresie (od–do), kategorii i nazwie.
--  Dokumenty w chmurze — upload plików PDF/JPG/PNG do AWS S3, podgląd, pobieranie i usuwanie.
--  Gwarancje — data końca gwarancji, liczba dni do końca, status: aktywna / kończy się / wygasła.
--  Powiadomienia — automatyczne alerty 30, 7 i 1 dzień przed końcem gwarancji (w aplikacji, opcjonalnie e-mail).
--  Przypomnienia — własne terminy związane z rzeczą (serwis, filtr, ubezpieczenie).
--  Statystyki — suma wydatków i liczba rzeczy dla adresu i okresu, podział na kategorie.
+-  Konto użytkownika — rejestracja i logowanie (JWT). Pro100D
+-  Adresy — użytkownik może mieć dowolną liczbę adresów i wybrać adres domyślny. Pro100D
+-  Zakupy (CRUD) — dodawanie, edycja, usuwanie i przeglądanie zakupów; filtrowanie po adresie, okresie (od–do), kategorii i nazwie. Pro100D
+-  Dokumenty w chmurze — upload plików PDF/JPG/PNG do AWS S3, podgląd, pobieranie i usuwanie. Pro100D
+-  Gwarancje — data końca gwarancji, liczba dni do końca, status: aktywna / kończy się / wygasła. dsw58966
+-  Powiadomienia — automatyczne alerty 30, 7 i 1 dzień przed końcem gwarancji (w aplikacji, opcjonalnie e-mail). dsw58966
+-  Przypomnienia — własne terminy związane z rzeczą (serwis, filtr, ubezpieczenie). dsw58966
+-  Statystyki — suma wydatków i liczba rzeczy dla adresu i okresu, podział na kategorie. dsw58966
 
 Architektura:
 1. Ekrany aplikacji
